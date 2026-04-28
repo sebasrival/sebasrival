@@ -1,4 +1,4 @@
-### Hi, I'm Sebastian! 👋
+Hi, I'm Sebastian! 👋
 
 I'm a frontend developer with 5+ years of experience transforming ideas into scalable digital products using React, Next.js, and TypeScript for high-performance interfaces.
 
