@@ -2,6 +2,10 @@ Hi, I'm Sebastian! 👋
 
 I'm a **frontend developer** with 5+ years of experience transforming ideas into scalable digital products using React, Next.js, and TypeScript for high-performance interfaces.
 
+#### About me
+- 🔭 I’m currently working on @ [itti](https://www.itti.digital/)
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebrival/), Email: sebasrival@gmail.com
 
 #### Languages and Tools
 <div align="left">
@@ -22,6 +26,8 @@ I'm a **frontend developer** with 5+ years of experience transforming ideas into
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="css logo"  />
   <img width="12" />
 </div>
+
+
 <!--
 **sebasrival/sebasrival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
